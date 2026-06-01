@@ -578,6 +578,8 @@ header .search-bar-container label:hover {
 .footer .box-container .box{
   padding:1rem 0;
   flex:1 1 25rem;
+ text-align: center;
+
 }
 
 .footer .box-container .box h3{
